@@ -1,0 +1,10 @@
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.deps.json
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.json
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.dev.json
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.dll
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.pdb
+D:\My Work\DesginPattern\GangOfFour\Mediator\obj\Debug\netcoreapp2.2\Mediator.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfoInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfo.cs
+D:\My Work\DesginPattern\GangOfFour\Mediator\obj\Debug\netcoreapp2.2\Mediator.dll
+D:\My Work\DesginPattern\GangOfFour\Mediator\obj\Debug\netcoreapp2.2\Mediator.pdb

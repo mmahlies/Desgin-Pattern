@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Work\\DesginPattern\\GangOfFour\\UnitTestProject2\\UnitTestProject2.csproj": {}
+  },
+  "projects": {
+    "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\AbstractFactoryClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\AbstractFactoryClient.csproj",
+        "projectName": "AbstractFactoryClient",
+        "projectPath": "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\AbstractFactoryClient.csproj",
+        "packagesPath": "C:\\Users\\mono\\.nuget\\packages\\",
+        "outputPath": "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Work\\Andalusia\\WorkSummary\\DTC\\EFCoreTran\\Lib1Core\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\My Work\\DesginPattern\\GangOfFour\\UnitTestProject2\\UnitTestProject2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Work\\DesginPattern\\GangOfFour\\UnitTestProject2\\UnitTestProject2.csproj",
+        "projectName": "UnitTestProject2",
+        "projectPath": "D:\\My Work\\DesginPattern\\GangOfFour\\UnitTestProject2\\UnitTestProject2.csproj",
+        "packagesPath": "C:\\Users\\mono\\.nuget\\packages\\",
+        "outputPath": "D:\\My Work\\DesginPattern\\GangOfFour\\UnitTestProject2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Work\\Andalusia\\WorkSummary\\DTC\\EFCoreTran\\Lib1Core\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\AbstractFactoryClient.csproj": {
+                "projectPath": "D:\\My Work\\DesginPattern\\GangOfFour\\GangOfFour\\AbstractFactoryClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\bin\Debug\netcoreapp2.2\NaiveMediator.deps.json
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\bin\Debug\netcoreapp2.2\NaiveMediator.runtimeconfig.json
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\bin\Debug\netcoreapp2.2\NaiveMediator.runtimeconfig.dev.json
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\bin\Debug\netcoreapp2.2\NaiveMediator.dll
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\bin\Debug\netcoreapp2.2\NaiveMediator.pdb
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.AssemblyInfoInputs.cache
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.AssemblyInfo.cs
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.dll
+D:\My Work\DesginPattern\GangOfFour\NaiveMediator\obj\Debug\netcoreapp2.2\NaiveMediator.pdb
