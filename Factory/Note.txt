@@ -1,0 +1,19 @@
+﻿Concreate instaintiation by new keyword
+ Factory object 
+	making object with in specific class with specific method to factorize the required obj and inject this factory in any consumer
+	consumer declear object from factory and call createInstance given text of required type
+	create instance  
+		can use late  binding or reflection to get all types from assembly that implement specific interface
+		and instaintiate specific one mathches with given name
+			
+Factory Method
+	making multiple subtype from factoryKnife
+	
+When we use factory pattern
+	want to sperate the choise of which object to creat from the way we create the object
+	alot if else/ Switch to create specific object
+	added new subtypes ith breaking OCP
+
+
+
+	

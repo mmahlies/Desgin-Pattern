@@ -1,0 +1,6 @@
+D:\My Work\DesginPattern\DesignPatter\Bridge\bin\Debug\Bridge.exe.config
+D:\My Work\DesginPattern\DesignPatter\Bridge\bin\Debug\Bridge.exe
+D:\My Work\DesginPattern\DesignPatter\Bridge\bin\Debug\Bridge.pdb
+D:\My Work\DesginPattern\DesignPatter\Bridge\obj\Debug\Bridge.exe
+D:\My Work\DesginPattern\DesignPatter\Bridge\obj\Debug\Bridge.pdb
+D:\My Work\DesginPattern\DesignPatter\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache

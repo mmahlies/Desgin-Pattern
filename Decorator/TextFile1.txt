@@ -1,0 +1,9 @@
+﻿when to use
+	-when u need to make some combination and concktel so insted of make to class to each type make to group 
+		this combination is found as new requirement to lagacy code
+		piza sizes && pizaa types
+	-to add functionality to legacy code
+	-adding funcitionlaty to oject in runt rime
+	-Add functionality to UI Controls
+Known as Wrapper patter that wrap the old object and then add some new logic to old lagancy
+-------------------------------------------------------------------

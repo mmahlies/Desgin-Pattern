@@ -1,0 +1,19 @@
+﻿Sperate the construction of complex object from its representation to create deiffrent representation,
+SOLVE TO MANY  paramteter to build an object situation
+Sandawithch builder is calss or interface tht contain basic methods for build a Sandwitch
+	any Sandwitch must has it's' bulider
+sandawatch maker is class or interface that take builder and has	
+	Build Sandwitch 
+		that call some method from builder to create SandwitchInstance
+	GetSandwitch 
+		return bulider.Getinstance
+
+
+
+		Builder has some method that want to implement
+		MAker has method that order calling of builderobject
+------------------------------------------------------------------------------------------------------
+1- Liskov substitution 
+
+------------------------------------------------------------------------------------------------------
+has common with template pattern but used in builder

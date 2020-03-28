@@ -1,0 +1,33 @@
+﻿when u have interface that abstract the logic and implemented throw multiple implementation classs
+new requirement added to some specific implementation
+
+
+
+Iprint
+	Txt
+	Word
+	PDF
+
+	now u have new requirement so that diffrent Print machine must ne used so u can print va printer1, printer2
+	solution
+	
+	1- make IPrinter 
+	2- implement diffrent printer with diffrent usage printer1:Ipreinter , printer2:Ipreinter 
+	3- convert Iprint a abstract cclass PrintBaseCalss that take in the constructore Iprinter
+	4- each txt,word,Pdf in the instaintaion pass specific printer type
+
+	another example
+	Irepo that depend on IdbContext
+
+	so when u implement Irepo u pass also concreate implementatioon of Idbcontext
+-------------------------------------------------------------------------------------------------------------
+usage
+
+Used as Strategy injected in abstracted layer 
+
+
+
+-----------------------------------------------------------------------------------------------------------
+Solid
+o/c
+dependency inversion 

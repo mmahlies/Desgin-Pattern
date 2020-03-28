@@ -1,0 +1,6 @@
+﻿allow object to change it's behaviour absed on his state
+naive solution is to use switch case in each method to edit the state variable 
+problem
+	maintanaince problem
+	violate o/c princble
+	cant test to large probpapility of input

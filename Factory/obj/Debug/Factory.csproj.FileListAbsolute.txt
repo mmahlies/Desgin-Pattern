@@ -1,0 +1,7 @@
+D:\My Work\DesginPattern\DesignPatter\Factory\bin\Debug\Factory.exe.config
+D:\My Work\DesginPattern\DesignPatter\Factory\bin\Debug\Factory.exe
+D:\My Work\DesginPattern\DesignPatter\Factory\bin\Debug\Factory.pdb
+D:\My Work\DesginPattern\DesignPatter\Factory\obj\Debug\Factory.exe
+D:\My Work\DesginPattern\DesignPatter\Factory\obj\Debug\Factory.pdb
+D:\My Work\DesginPattern\DesignPatter\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\DesignPatter\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache

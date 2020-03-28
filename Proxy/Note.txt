@@ -1,0 +1,9 @@
+﻿proxy as a surrogate for real object
+ usge
+	virtual proxy
+		if the real object is very expensive like an image so we can use loading igm as proxy insted of real img
+	remote proxy
+		make local copy of remote object to deal with insted dealing with newtwork issu
+	Protection proxy
+we can use auto generated code to make proxy as real object and sync with real object
+ 

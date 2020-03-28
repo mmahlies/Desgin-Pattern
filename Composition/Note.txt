@@ -1,0 +1,8 @@
+﻿Recrisve Component
+Coposit class composit a nother composit class
+
+1- define inerface or base calss that hass common behaviour
+2- implement Composite class with 
+	A - Composite type that has list of other base type
+	B - leaf type
+use to deal with tree like structure by using polymorphism (both a, b inhirt the same general behaviour)

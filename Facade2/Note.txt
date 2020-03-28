@@ -1,0 +1,11 @@
+﻿usage
+	can be for hiding poorly desgin of API - or nice output for dirty box
+	give simplified nterface for client
+	More likely when making something for clients
+	we can use facade as services provider 
+	most likely used in Data access
+nformation hiding 
+	is to hide Complexity 
+MEan
+	is mean the outlook of something
+1- desgin interface that hass all set details 

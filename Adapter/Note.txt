@@ -1,0 +1,40 @@
+﻿1- Design the target interface "web request" request  method
+2- implement the target interface with in adpater class "web adapter" implement web request method 
+3- send the request from client "web client" to the adapter using the interface 
+
+
+adapter is known as wrapper and can be reused
+and make clien depend on adapter interface not concreate type
+
+
+
+------------------------------------------------------
+Pluralsight - Desin pattern library
+like in IDataAdapter in Dtnet any one can implement IdataAdpater like XDataAdapter and path this to Ado.net 
+can act as strategy pattern
+
+--- if u already have class that contain code aka y u want to reuse in method x
+but u cant instaintiate anew y instance so u have to implement adpter interface in X 's class
+this adpter has implementation that use y and pass this implementaion to x so O/C
+
+like repostitoy pattern
+
+
+
+----------------------------------------------------
+Adapter patterns  Vs Strategy Pattern
+
+Adapter patterns basically allows classes to work together that on their could not due to incompatible interfaces. Adapter converts the interface of one class into something that may be used by another class.
+
+Similar to how if you travel abroad you need to carry a power adapter to be able to use the wall sockets.
+
+Strategy pattern, on the other hand takes a group of algorithms, and makes them interchangeable (by extending from a common interface). So that whatever class that is going to use the strategy can easily interchange it with another strategy from the group.
+
+In other words, Adapter does not add behavior in any way, it just modifies the existing interface to allow some other class to access the existing functionality.
+
+Strategy pattern on the other hand encapsulates different behavior, and allows them to be switched at run time.
+
+------------------------------------
+Solid
+1-o/c
+2-Liskov substitution 

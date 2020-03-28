@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder.SandwitchBuilder" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAABAAAAAAAABAAAAAAAABAgAAEAAAA=</HashCode>
+      <FileName>SandwatchBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.SandwitchBuilder1" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAEAAAA=</HashCode>
+      <FileName>SandwatchBuilder1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Sandwitch" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sandwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.SandwitchMaker">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>SandwitchMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

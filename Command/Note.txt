@@ -1,0 +1,16 @@
+﻿use in 
+logging 
+validation
+undo /redo
+
+--------------------------------------------------------------------------------------------
+decouble the client from all executing details
+advantage 
+	use to save command in resestance 
+	used in delay execution by saving them and display them in another time
+
+Command vs strategy
+Strategy you pass an strategy object 
+Command u dont have to pass any paramter because parameter are passed throw factory command
+
+		

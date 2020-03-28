@@ -1,0 +1,6 @@
+D:\My Work\DesginPattern\DesignPatter\observer\bin\Debug\observer.exe.config
+D:\My Work\DesginPattern\DesignPatter\observer\bin\Debug\observer.exe
+D:\My Work\DesginPattern\DesignPatter\observer\bin\Debug\observer.pdb
+D:\My Work\DesginPattern\DesignPatter\observer\obj\Debug\observer.exe
+D:\My Work\DesginPattern\DesignPatter\observer\obj\Debug\observer.pdb
+D:\My Work\DesginPattern\DesignPatter\observer\obj\Debug\observer.csproj.CoreCompileInputs.cache

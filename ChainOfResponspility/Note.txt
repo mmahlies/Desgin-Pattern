@@ -1,0 +1,14 @@
+﻿Sender know about first reciver inly
+each reciver only know about his next reciver 
+each reciver has to decide to move the message to next reciver or accept the message and send the result back
+can use in workflow application
+
+
+definition
+Chain of Responsibility "Avoid coupling the sender of a request to its receiver by giving more than one object a chance 
+to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it." (pg.223)
+
+
+Chain of responsibility vs Pipeline
+in Chain of responsibility  reciver has to decide to move the message to next reciver or accept the message and send the result back
+in pipeline each reciver make serve the request after that pass to the next reciver

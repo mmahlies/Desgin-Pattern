@@ -1,0 +1,2 @@
+﻿the Mediator allows for loose coupling between colleagues. Since each of these colleagues only communicates with the mediator,
+like team leadear that manage the communication between developers

@@ -1,0 +1,10 @@
+﻿this pattern used when two clases seem each other with small diffrents and share alot of common behaviour
+
+can use to force specific template or specific routine in subcalss like using in Chain of responsiplity to force
+all subclass to do specific rotuine work
+
+
+
+-----------------------------------------------------------------------
+Solid
+1-Liskov substitution 

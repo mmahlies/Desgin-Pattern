@@ -1,0 +1,7 @@
+﻿interface for observer
+update
+	
+suberClass for source of events 
+	subscribe => rigisterObserver(observer)
+	unsubscribe => unrigisterObserver(observer)
+	notify	
