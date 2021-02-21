@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\StatePattern\obj\Debug\StatePattern.exe
 D:\My Work\DesginPattern\DesignPatter\StatePattern\obj\Debug\StatePattern.pdb
 D:\My Work\DesginPattern\DesignPatter\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\StatePattern\bin\Debug\StatePattern.exe.config
+D:\My Work\DesginPattern\GangOfFour\StatePattern\bin\Debug\StatePattern.exe
+D:\My Work\DesginPattern\GangOfFour\StatePattern\bin\Debug\StatePattern.pdb
+D:\My Work\DesginPattern\GangOfFour\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\StatePattern\obj\Debug\StatePattern.exe
+D:\My Work\DesginPattern\GangOfFour\StatePattern\obj\Debug\StatePattern.pdb

@@ -4,3 +4,9 @@ D:\My Work\DesginPattern\DesignPatter\Proxy\bin\Debug\Proxy.pdb
 D:\My Work\DesginPattern\DesignPatter\Proxy\obj\Debug\Proxy.exe
 D:\My Work\DesginPattern\DesignPatter\Proxy\obj\Debug\Proxy.pdb
 D:\My Work\DesginPattern\DesignPatter\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Proxy\bin\Debug\Proxy.exe.config
+D:\My Work\DesginPattern\GangOfFour\Proxy\bin\Debug\Proxy.exe
+D:\My Work\DesginPattern\GangOfFour\Proxy\bin\Debug\Proxy.pdb
+D:\My Work\DesginPattern\GangOfFour\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Proxy\obj\Debug\Proxy.exe
+D:\My Work\DesginPattern\GangOfFour\Proxy\obj\Debug\Proxy.pdb

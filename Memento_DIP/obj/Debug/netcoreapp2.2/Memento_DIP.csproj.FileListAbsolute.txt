@@ -1,0 +1,12 @@
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\bin\Debug\netcoreapp2.2\Memento_DIP.deps.json
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\bin\Debug\netcoreapp2.2\Memento_DIP.runtimeconfig.json
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\bin\Debug\netcoreapp2.2\Memento_DIP.runtimeconfig.dev.json
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\bin\Debug\netcoreapp2.2\Memento_DIP.dll
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\bin\Debug\netcoreapp2.2\Memento_DIP.pdb
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.AssemblyInfoInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.AssemblyInfo.cs
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.dll
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.pdb
+D:\My Work\DesginPattern\GangOfFour\Memento_DIP\obj\Debug\netcoreapp2.2\Memento_DIP.genruntimeconfig.cache

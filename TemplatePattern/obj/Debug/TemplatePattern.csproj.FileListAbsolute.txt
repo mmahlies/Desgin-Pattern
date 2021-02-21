@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\TemplatePattern\obj\Debug\TemplatePattern.
 D:\My Work\DesginPattern\DesignPatter\TemplatePattern\obj\Debug\TemplatePattern.pdb
 D:\My Work\DesginPattern\DesignPatter\TemplatePattern\obj\Debug\TemplatePattern.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\bin\Debug\TemplatePattern.exe
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\bin\Debug\TemplatePattern.pdb
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\obj\Debug\TemplatePattern.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\obj\Debug\TemplatePattern.exe
+D:\My Work\DesginPattern\GangOfFour\TemplatePattern\obj\Debug\TemplatePattern.pdb

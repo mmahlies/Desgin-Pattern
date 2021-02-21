@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\Strategy\obj\Debug\Strategy.exe
 D:\My Work\DesginPattern\DesignPatter\Strategy\obj\Debug\Strategy.pdb
 D:\My Work\DesginPattern\DesignPatter\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Strategy\bin\Debug\Strategy.exe.config
+D:\My Work\DesginPattern\GangOfFour\Strategy\bin\Debug\Strategy.exe
+D:\My Work\DesginPattern\GangOfFour\Strategy\bin\Debug\Strategy.pdb
+D:\My Work\DesginPattern\GangOfFour\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Strategy\obj\Debug\Strategy.exe
+D:\My Work\DesginPattern\GangOfFour\Strategy\obj\Debug\Strategy.pdb

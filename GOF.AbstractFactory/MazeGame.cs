@@ -9,7 +9,7 @@ namespace GOF.AbstractFactory
     {
 
         /// <summary>
-        /// you can pass any type that innhirt from Mazefactory abstract class 
+        /// you can pass any type that innhirt from Mazefactory abstract class     (like magicMAzeFactory)
         /// </summary>
         /// <param name="mazeFactory"></param>
         public MazeGame(MazeFactory mazeFactory)

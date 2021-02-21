@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GOF.AbstractFactory/1.0.0": {
+        "dependencies": {
+          "GOF.Creational": "1.0.0"
+        },
+        "runtime": {
+          "GOF.AbstractFactory.dll": {}
+        }
+      },
+      "GOF.Creational/1.0.0": {
+        "runtime": {
+          "GOF.Creational.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GOF.AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GOF.Creational/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

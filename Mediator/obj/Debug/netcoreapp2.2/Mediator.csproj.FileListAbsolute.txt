@@ -23,3 +23,4 @@ D:\My Work\DesginPattern\DesignPatter\Mediator\bin\Debug\netcoreapp2.2\Mediator.
 D:\My Work\DesginPattern\DesignPatter\Mediator\bin\Debug\netcoreapp2.2\Mediator.dll
 D:\My Work\DesginPattern\DesignPatter\Mediator\bin\Debug\netcoreapp2.2\Mediator.pdb
 D:\My Work\DesginPattern\DesignPatter\Mediator\obj\Debug\netcoreapp2.2\Mediator.genruntimeconfig.cache
+D:\My Work\DesginPattern\GangOfFour\Mediator\bin\Debug\netcoreapp2.2\Mediator.dll.config

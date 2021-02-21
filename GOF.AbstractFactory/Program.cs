@@ -6,7 +6,10 @@ namespace GOF.AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          //  MazeGame mazeGame = new MazeGame(new MazeFactory());
+
+          //  MazeGame mazeGame = new MazeGame(new MagicMazeFactory());
+
         }
     }
 }

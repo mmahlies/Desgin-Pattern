@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\Facade2\obj\Debug\Facade2.exe
 D:\My Work\DesginPattern\DesignPatter\Facade2\obj\Debug\Facade2.pdb
 D:\My Work\DesginPattern\DesignPatter\Facade2\obj\Debug\Facade.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\Facade2\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Facade2\bin\Debug\Facade2.exe.config
+D:\My Work\DesginPattern\GangOfFour\Facade2\bin\Debug\Facade2.exe
+D:\My Work\DesginPattern\GangOfFour\Facade2\bin\Debug\Facade2.pdb
+D:\My Work\DesginPattern\GangOfFour\Facade2\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Facade2\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Facade2\obj\Debug\Facade2.exe
+D:\My Work\DesginPattern\GangOfFour\Facade2\obj\Debug\Facade2.pdb

@@ -4,3 +4,10 @@ D:\My Work\DesginPattern\DesignPatter\Command\bin\Debug\Command.pdb
 D:\My Work\DesginPattern\DesignPatter\Command\obj\Debug\Command.exe
 D:\My Work\DesginPattern\DesignPatter\Command\obj\Debug\Command.pdb
 D:\My Work\DesginPattern\DesignPatter\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Command\bin\Debug\Command.exe.config
+D:\My Work\DesginPattern\GangOfFour\Command\bin\Debug\Command.exe
+D:\My Work\DesginPattern\GangOfFour\Command\bin\Debug\Command.pdb
+D:\My Work\DesginPattern\GangOfFour\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Command\obj\Debug\Command.exe
+D:\My Work\DesginPattern\GangOfFour\Command\obj\Debug\Command.pdb

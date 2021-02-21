@@ -1,0 +1,9 @@
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.AssemblyInfoInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.AssemblyInfo.cs
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Core\bin\Debug\netcoreapp2.2\GOF.Creational.deps.json
+D:\My Work\DesginPattern\GangOfFour\Core\bin\Debug\netcoreapp2.2\GOF.Creational.dll
+D:\My Work\DesginPattern\GangOfFour\Core\bin\Debug\netcoreapp2.2\GOF.Creational.pdb
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.dll
+D:\My Work\DesginPattern\GangOfFour\Core\obj\Debug\netcoreapp2.2\GOF.Creational.pdb

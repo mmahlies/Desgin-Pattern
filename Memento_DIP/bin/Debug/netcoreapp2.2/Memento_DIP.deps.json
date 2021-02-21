@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Memento_DIP/1.0.0": {
+        "runtime": {
+          "Memento_DIP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memento_DIP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

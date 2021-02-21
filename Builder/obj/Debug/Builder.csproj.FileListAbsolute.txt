@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\Builder\obj\Debug\Builder.exe
 D:\My Work\DesginPattern\DesignPatter\Builder\obj\Debug\Builder.pdb
 D:\My Work\DesginPattern\DesignPatter\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Builder\bin\Debug\Builder.exe.config
+D:\My Work\DesginPattern\GangOfFour\Builder\bin\Debug\Builder.exe
+D:\My Work\DesginPattern\GangOfFour\Builder\bin\Debug\Builder.pdb
+D:\My Work\DesginPattern\GangOfFour\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Builder\obj\Debug\Builder.exe
+D:\My Work\DesginPattern\GangOfFour\Builder\obj\Debug\Builder.pdb

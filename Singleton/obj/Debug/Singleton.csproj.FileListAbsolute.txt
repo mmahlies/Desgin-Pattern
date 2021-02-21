@@ -5,3 +5,10 @@ D:\My Work\DesginPattern\DesignPatter\Singleton\obj\Debug\Singleton.exe
 D:\My Work\DesginPattern\DesignPatter\Singleton\obj\Debug\Singleton.pdb
 D:\My Work\DesginPattern\DesignPatter\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\DesignPatter\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Singleton\bin\Debug\Singleton.exe.config
+D:\My Work\DesginPattern\GangOfFour\Singleton\bin\Debug\Singleton.exe
+D:\My Work\DesginPattern\GangOfFour\Singleton\bin\Debug\Singleton.pdb
+D:\My Work\DesginPattern\GangOfFour\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\Singleton\obj\Debug\Singleton.exe
+D:\My Work\DesginPattern\GangOfFour\Singleton\obj\Debug\Singleton.pdb
