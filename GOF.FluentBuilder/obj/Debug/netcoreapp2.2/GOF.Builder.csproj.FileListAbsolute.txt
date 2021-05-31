@@ -1,0 +1,14 @@
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Builder.deps.json
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Builder.runtimeconfig.json
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Builder.runtimeconfig.dev.json
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Builder.dll
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Builder.pdb
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Creational.dll
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\bin\Debug\netcoreapp2.2\GOF.Creational.pdb
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.AssemblyInfoInputs.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.AssemblyInfo.cs
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.csproj.CoreCompileInputs.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.csproj.CopyComplete
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.dll
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.pdb
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.genruntimeconfig.cache
