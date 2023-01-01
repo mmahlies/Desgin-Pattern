@@ -46,11 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApproveResponse.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="EnfOfChainExceptionHandler.cs" />
     <Compile Include="ExpensesHandler.cs" />
     <Compile Include="ExpensesReport.cs" />
-    <Compile Include="Interfaces.cs" />
+    <Compile Include="IExpenseHandler.cs" />
+    <Compile Include="IExpensesApprover.cs" />
+    <Compile Include="IExpensesReport.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

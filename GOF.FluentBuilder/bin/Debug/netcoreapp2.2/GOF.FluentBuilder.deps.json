@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GOF.FluentBuilder/1.0.0": {
+        "dependencies": {
+          "GOF.Creational": "1.0.0"
+        },
+        "runtime": {
+          "GOF.FluentBuilder.dll": {}
+        }
+      },
+      "GOF.Creational/1.0.0": {
+        "runtime": {
+          "GOF.Creational.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GOF.FluentBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GOF.Creational/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

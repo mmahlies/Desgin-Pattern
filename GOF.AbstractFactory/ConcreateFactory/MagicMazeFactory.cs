@@ -1,4 +1,5 @@
 ﻿using Core;
+using Core.Models.MagicModel;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,10 +14,10 @@ namespace GOF.AbstractFactory
             return new Maze();
         }
         public virtual Wall MakeWall()
-        { return new Wall(); }
+        { return new MagicWall(); }
         public virtual Room MakeRoom(int n)
-        { return new Room(n); }
-        public virtual Door MakeDoor(Room r1, Room r2)
-        { return new Door(r1, r2); }
+        { return new MagicRoom(n); }
+        public virtual Door MakeDoor(MagicRoom r1, MagicRoom r2)
+        { return new MagicDoor(r1, r2); }
     }
 }

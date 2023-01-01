@@ -12,3 +12,5 @@ D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Buil
 D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.dll
 D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.pdb
 D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.genruntimeconfig.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.csproj.AssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.Builder\obj\Debug\netcoreapp2.2\GOF.Builder.GeneratedMSBuildEditorConfig.editorconfig

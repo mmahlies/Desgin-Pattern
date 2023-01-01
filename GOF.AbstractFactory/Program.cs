@@ -6,9 +6,9 @@ namespace GOF.AbstractFactory
     {
         static void Main(string[] args)
         {
-          //  MazeGame mazeGame = new MazeGame(new MazeFactory());
-
-          //  MazeGame mazeGame = new MazeGame(new MagicMazeFactory());
+           // uncomment one of the two below lines ( act as dependency injection based on configuration)
+           // MazeGame mazeGame = new MazeGame(new MazeFactory());
+          //   MazeGame mazeGame = new MazeGame(new MagicMazeFactory());
 
         }
     }

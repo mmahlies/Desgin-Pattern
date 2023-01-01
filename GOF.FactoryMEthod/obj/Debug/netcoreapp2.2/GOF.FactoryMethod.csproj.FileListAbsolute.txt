@@ -1,4 +1,3 @@
-D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.csprojAssemblyReference.cache
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.AssemblyInfoInputs.cache
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.AssemblyInfo.cs
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.csproj.CoreCompileInputs.cache
@@ -13,3 +12,5 @@ D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GO
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.dll
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.pdb
 D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.genruntimeconfig.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.csproj.AssemblyReference.cache
+D:\My Work\DesginPattern\GangOfFour\GOF.FactoryMEthod\obj\Debug\netcoreapp2.2\GOF.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig

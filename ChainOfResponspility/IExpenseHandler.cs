@@ -12,21 +12,6 @@ namespace ChainOfResponspility
         void RegisterNext(IExpenseHandler next);
     }
 
-    public enum ApproveResponse
-    {
-        Denied, Accepted , ByoundTheScope
-    }
-    
-    interface IExpensesReport
-    {
-         decimal Total { get; }
-    }
-
-     interface IExpensesApprover
-    {
-        ApproveResponse Approve(IExpensesReport report);
-    }
-
 
 
 }
