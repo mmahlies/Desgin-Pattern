@@ -8,13 +8,13 @@ namespace GOF.Builder
     public abstract class StandardMazeBuilder
     {
         private Maze maze { get; set; }
-        public virtual void MakeMaze()
+        public virtual void BuildMaze()
         {
             maze = new Maze();
         }
-        public virtual Wall MakeWall()
+        public virtual Wall BuildWall()
         { return new Wall(); }
-        public virtual void MakeRoom(int n)
+        public virtual void BuildRoom(int n)
         {
             Room r = new Room(n);
             r.SetSide(Direction.E, new Wall());
@@ -23,7 +23,7 @@ namespace GOF.Builder
             r.SetSide(Direction.S, new Wall());
             maze.Rooms[n] = r;
         }
-        public virtual void MakeDoor(int r1No, int r2No)
+        public virtual void BuildDoor(int r1No, int r2No)
         {
             Room r1 = maze.Rooms[r1No];
             Room r2 = maze.Rooms[r2No];

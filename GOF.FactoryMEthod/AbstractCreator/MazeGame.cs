@@ -5,8 +5,9 @@ using System.Text;
 
 namespace GOF.FactoryMethod
 {
-  public  class MazeGame
+  public abstract  class MazeGame
     {
+        // factory methods
         public virtual Maze MakeMaze()
         {
             return new Maze();

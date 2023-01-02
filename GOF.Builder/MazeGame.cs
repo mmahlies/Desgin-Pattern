@@ -9,10 +9,10 @@ namespace GOF.Builder
    
         public MazeGame(StandardMazeBuilder builder)
         {
-            builder.MakeMaze();
-            builder.MakeRoom(0);
-            builder.MakeRoom(1);
-            builder.MakeDoor(0, 1);
+            builder.BuildMaze();
+            builder.BuildRoom(0);
+            builder.BuildRoom(1);
+            builder.BuildDoor(0, 1);
             builder.GetMaze();
 
             // maze

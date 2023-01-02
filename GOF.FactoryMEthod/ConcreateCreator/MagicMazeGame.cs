@@ -8,6 +8,7 @@ namespace GOF.FactoryMethod
 {
   public  class MagicMazeGame     :MazeGame
     {
+
         public override Maze MakeMaze()
         {
             return new MagicMaze();
